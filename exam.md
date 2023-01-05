@@ -104,6 +104,8 @@ redis có thể dùng để cache dữ liệu, có thể đùng làm bộ đếm
 
 #### 8
 
+<img src="https://github.com/qunv/test/blob/d14798b962dc3c4425ac8fd72e9858f9fd3746ca/graduation-slide.jpg">
+
 #### 9
  
  + a: GC có tác dụng thu hồi lại bộ nhớ đã được cấp phát cho các object mà không còn được tham chiếu nữa
